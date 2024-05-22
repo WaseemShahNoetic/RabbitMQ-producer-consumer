@@ -1,0 +1,4 @@
+com\springBootrabbitmqproducer\CustomMessage.class
+com\springBootrabbitmqproducer\MessageProducerController.class
+com\springBootrabbitmqproducer\MQConfig.class
+com\springBootrabbitmqproducer\SpringBootRabbitmqProducerApplication.class

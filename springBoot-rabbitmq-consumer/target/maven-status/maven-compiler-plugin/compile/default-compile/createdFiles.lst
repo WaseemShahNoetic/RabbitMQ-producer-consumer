@@ -1,0 +1,4 @@
+com\test\springBootrabbitmqconsumer\MessageListener.class
+com\test\springBootrabbitmqconsumer\SpringBootRabbitmqConsumerApplication.class
+com\test\springBootrabbitmqconsumer\CustomMessage.class
+com\test\springBootrabbitmqconsumer\MQConfig.class
